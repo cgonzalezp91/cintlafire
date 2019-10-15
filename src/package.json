@@ -1,0 +1,35 @@
+{
+  "name": "cintla",
+  "version": "1.0.0",
+  "description": "1er. Cumbre Internacional Aduanera 2019",
+  "author": "Carlos Gonzalez",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "now-build": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "@nuxtjs/bulma": "^1.2.1",
+    "animate.css": "^3.7.2",
+    "aos": "^2.3.4",
+    "fullpage-vue": "^1.8.3",
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.4.0",
+    "pdfobject": "^2.1.1",
+    "vue-quick-menu": "^1.0.7",
+    "vue-scrollto": "^2.15.0",
+    "vue2-flip-countdown": "^0.7.1"
+  },
+  "devDependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
